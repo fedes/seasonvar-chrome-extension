@@ -1,0 +1,14 @@
+.highlight, .highlight a, .highlight input[type='checkbox'], .highlight span {
+	color: rgb(236,58,120) !important;
+}
+.film-list-item input[type='checkbox'] {
+	position: absolute;
+	left: -5px;
+	height: 10px;
+}
+.head-block .top-link{
+	padding: 0px 0 2px 17px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
